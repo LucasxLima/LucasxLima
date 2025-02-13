@@ -21,7 +21,8 @@
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white")](https://www.linkedin.com/in/lucas-lima-518562270)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:devlucasxlima@gmail.com)
 
-#### Estudo para tornar-me um desenvolvedor líder em meu campo, desenvolver soluções inovadoras para resolver problemas reais e <br/> contribuir para o avanço da tecnologia e da sociedade.
+#### Estudo para tornar-me um desenvolvedor líder em meu campo, desenvolver soluções inovadoras para resolver problemas reais de<br/>
+forma criativa com Inteligencia Artifgicial e contribuir para o avanço da tecnologia e da sociedade.
 
 
 
