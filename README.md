@@ -14,7 +14,7 @@
 ### Aqui em breve você encontrará meus projetos, experimentos e contribuições para a comunidade.
 
 ![LucasxLima GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasxLima&show_icons=true&theme=dracula)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasxLima&exclude_repo=github-readme-stats,anuraghazra.github.io)
+![LucasxLima Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasxLima&exclude_repo=github-readme-stats,anuraghazra.github.io)
 
 ### Vamos nos conectar e criar novos projetos !
 
